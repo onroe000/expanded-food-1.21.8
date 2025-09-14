@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "#expandedfood:cooked_meat",
+    "B": "#minecraft:eggs",
+    "C": "minecraft:wheat"
+  },
+  "pattern": [
+    "BAB",
+    "CCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "expandedfood:meat_pie"
+  }
+}

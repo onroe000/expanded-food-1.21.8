@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:wheat",
+    "B": "minecraft:bowl"
+  },
+  "pattern": [
+    "AA",
+    "B "
+  ],
+  "result": {
+    "count": 1,
+    "id": "expandedfood:porridge"
+  }
+}

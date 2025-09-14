@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:bread",
+    "B": "#expandedfood:cooked_meat",
+    "C": "#expandedfood:vegies"
+  },
+  "pattern": [
+    "ABC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "expandedfood:burger"
+  }
+}

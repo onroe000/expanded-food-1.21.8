@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:cocoa_beans",
+    "B": "minecraft:milk_bucket"
+  },
+  "pattern": [
+    "AA",
+    "AB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "expandedfood:chocolate"
+  }
+}

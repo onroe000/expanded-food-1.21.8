@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "expandedfood",
+	"version": "${version}",
+	"name": "Expanded Food",
+	"description": " some new food based on vanilla ingredients and food.",
+	"authors": [
+		"onroefork"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/user/onroefork",
+		"sources": "https://github.com/onroe000/Expanded-Food"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/expandedfood/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.expandedfood.ExpandedFood"
+		],
+		"client": [
+			"com.expandedfood.ExpandedFoodClient"
+		],
+		"fabric-datagen": [
+			"com.expandedfood.ExpandedFoodDataGenerator"
+		]
+	},
+	"mixins": [
+		"expandedfood.mixins.json",
+		{
+			"config": "expandedfood.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

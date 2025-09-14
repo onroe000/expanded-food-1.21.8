@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:baked_potato",
+    "B": "minecraft:milk_bucket",
+    "C": "minecraft:bowl"
+  },
+  "pattern": [
+    "ABC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "expandedfood:mashed_potato"
+  }
+}
