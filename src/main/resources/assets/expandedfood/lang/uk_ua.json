@@ -1,0 +1,19 @@
+{
+  "item.expandedfood.caramel": "Карамель",
+  "item.expandedfood.fried_egg": "Яєчня",
+
+  "item.expandedfood.burger": "Бургер",
+  "item.expandedfood.caramel_apple": "Яблуко в карамелі",
+  "item.expandedfood.carrot_soup": "Суп з моркви",
+  "item.expandedfood.chocolate": "Щоколад",
+  "item.expandedfood.honey_chicken": "Курятина в меду",
+  "item.expandedfood.jam": "Джем",
+  "item.expandedfood.mashed_potato": "Картопляне пюре",
+  "item.expandedfood.meat_pie": "М'ясний пиріг",
+  "item.expandedfood.porridge": "Каша",
+  "item.expandedfood.stuffed_rabbit": "Фарширована кролятина",
+  "item.expandedfood.sushi": "Суші",
+  "item.expandedfood.veggie_salad": "Овочевий салат",
+
+  "modmenu.descriptionTranslation.expandedfood": "Додає нові види їжі на основі стандартних інгредієнтів і їжі"
+}
