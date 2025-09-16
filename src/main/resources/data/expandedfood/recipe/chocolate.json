@@ -3,11 +3,12 @@
   "category": "misc",
   "key": {
     "A": "minecraft:cocoa_beans",
-    "B": "minecraft:milk_bucket"
+    "B": "minecraft:milk_bucket",
+    "C": "minecraft:sugar"
   },
   "pattern": [
     "AA",
-    "AB"
+    "CB"
   ],
   "result": {
     "count": 1,

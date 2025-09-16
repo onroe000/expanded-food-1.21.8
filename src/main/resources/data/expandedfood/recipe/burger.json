@@ -4,7 +4,7 @@
   "key": {
     "A": "minecraft:bread",
     "B": "#expandedfood:cooked_meat",
-    "C": "#expandedfood:vegies"
+    "C": "#expandedfood:vegetables"
   },
   "pattern": [
     "ABC"

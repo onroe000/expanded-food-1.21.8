@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "A": "minecraft:cooked_rabbit",
-    "B": "#expandedfood:vegies"
+    "B": "#expandedfood:vegetables"
   },
   "pattern": [
     "AB"

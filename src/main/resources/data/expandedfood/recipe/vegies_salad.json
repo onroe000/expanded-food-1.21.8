@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "A": "#expandedfood:vegies",
+    "A": "#expandedfood:vegetables",
     "B": "minecraft:bowl"
   },
   "pattern": [
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "expandedfood:vegies_salad"
+    "id": "expandedfood:veggie_salad"
   }
 }

@@ -3,13 +3,13 @@
 	"id": "expandedfood",
 	"version": "${version}",
 	"name": "Expanded Food",
-	"description": " some new food based on vanilla ingredients and food.",
+	"description": "Adds new types of food based on vanilla ingredients and food.",
 	"authors": [
 		"onroefork"
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/user/onroefork",
-		"sources": "https://github.com/onroe000/Expanded-Food"
+		"sources": "https://github.com/onroe000/expanded-food-1.21.8"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/expandedfood/icon.png",
